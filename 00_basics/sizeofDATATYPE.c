@@ -1,0 +1,12 @@
+#include<stdio.h>
+int main(){
+    int a = 30*1000+2768;
+    printf("THE ANSWER OF THE EXPRESSION IS:%d",a);
+    return 0;
+}
+//#include<stdio.h>
+//int main(){
+//    short a = 30*1000+2768; #HERE E HAVE USED SHORT DATA TYPE WHICH CAN BE CALLED AS CHOTA DABBA WHICH STORE
+//    printf("%d",a);  INTEGER DATATYPE AND IS OF 2 BYTES = 16 BITS WHICH ON PERFORMING OPERATION RESULT NEGATIVE
+//    return 0;   VALUE AS IN ABOVE CODE THE ANS IS 32768 BUT ON PERFORMING IT WITH SHORT
+//}               DATA TYPE IT WILL RETURN -32768.
