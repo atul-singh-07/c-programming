@@ -17,10 +17,11 @@ int main(){
         int a=i-1;          //         1 2 3 4
         for(int k=1;k<=i-1;k++){// now this loop is controlling rest leftover number
             printf("%d ",a);//     1
-            a--;//                 2 1
-        }//                        3 2 1 
+            a--;//                 2 1 here {a--} is decresing these values as 2 then 1 
+        }//                        3 2 1                           here 3 then 2 then 1
         printf("\n");
     }
     return 0;
 }
+
 // NOTE:remove hash for space printing
