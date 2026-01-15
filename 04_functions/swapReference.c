@@ -1,5 +1,5 @@
 #include<stdio.h>
-void swap(int*x,int*y){
+void swap(int*x,int*y){// here pointers are used to store the address of the passed variables a and b
     int temp;
     temp=*x; // temp = 2
     *x=*y;// a=9
@@ -14,4 +14,5 @@ int main(){
     printf("THE VALUE OF A IS:%d\n",a);
     printf("THE VALUE OF B IS:%d",b);
     return 0;
+
 }
