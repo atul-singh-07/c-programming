@@ -14,6 +14,7 @@ int main(){
     printf("ENTER R: ");
     scanf("%d",&r);
     int ncr=factorial(n)/(factorial(r)*factorial(n-r));// here three value will pass on to
-    printf("%d",ncr);// the function one by one and then will return for calculation
+    printf("%d",ncr);//                                   the function one by one and then will return for calculation
     return 0;
+
 }
