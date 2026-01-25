@@ -1,0 +1,19 @@
+#include<stdio.h>
+void zigzag(int n){
+    if(n==0) return;
+    printf("%d ",n);
+    zigzag(n-1);
+    printf("%d ",n);
+    zigzag(n-1);
+    printf("%d ",n);
+    return;
+}
+int main(){
+    int n;
+    printf("ENTER A NUMBER:");
+    scanf("%d",&n);
+    zigzag(n);
+    return 0;
+}
+// note: the concept of this zigzag code is completely the same as the concept of preinpost
+ 
