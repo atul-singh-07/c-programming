@@ -1,5 +1,0 @@
-#include<stdio.h>
-int main(){
-    int arr[][3]={{1,2,3},{1,2,3}};// AS HERE THE COLUMNS ARE THREE SO THE COMPILER OR THE
-    return 0;// COMPUTER WILL AUTOMATICALLY FILL THAT EMPTY PLACE WITH TWO AS ROWS
-}
