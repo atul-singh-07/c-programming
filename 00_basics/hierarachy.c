@@ -14,10 +14,11 @@ int main(){
     int i=2,j=3,k,l;
     float a,b;    k=i/j*j;
     l=j/i*i;
-    a=i/j*j; 
-    b=j/i*i;
+    a=i/j*j; here these operations will be perform in integer basis only then will be converted to float datatype
+    b=j/i*i; """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
     printf("%d %d %f %f",k,l,a,b);
     return 0;
   }// THE OUTPUT FOR THIS WILL BE: 0 2 0.000000 2.000000*/
   // BY REMOVING COMMENT U CAN UNDERSTAND BETTER BY DOING DRY RUN OF THE CODE
+
  
