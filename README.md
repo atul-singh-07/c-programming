@@ -97,6 +97,7 @@ Foundation         →  C++ is C with OOP — master C first
 
 <div align="center">
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/atul-singh-o7)
 [![Portfolio](https://img.shields.io/badge/AtulOS-00d9ff?style=for-the-badge&logo=firefox&logoColor=black)](https://atul-singh-07.github.io)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/atul-singh-07)
 
